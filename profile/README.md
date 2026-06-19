@@ -1,6 +1,6 @@
 # 👋 Welcome to CodeDrips
 
-We are a web development studio specialising in **headless CMS**, **Gatsby**, and modern JavaScript solutions. We build fast, scalable, and maintainable web experiences for our clients and the open-source community.
+We are a web development studio specializing in **headless CMS**, **Gatsby**, and modern JavaScript solutions. We build fast, scalable, and maintainable web experiences for our clients and the open-source community.
 
 🌐 Visit us at [codedrips.com](https://codedrips.com)
 
@@ -8,7 +8,7 @@ We are a web development studio specialising in **headless CMS**, **Gatsby**, an
 
 ## 🚀 What We Do
 
-- **Headless WordPress** – Decoupled WordPress backends powering lightning-fast front-end experiences
+- **Headless WordPress** – Decoupled WordPress backends powering lightning-fast frontend experiences
 - **Gatsby Development** – Building performant, SEO-friendly static sites with React and GraphQL
 - **Open-Source Plugins & Starters** – Reusable Gatsby starters and plugins to accelerate development
 - **TypeScript Utilities** – Developer-friendly packages for common web interactions
